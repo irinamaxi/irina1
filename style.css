@@ -198,8 +198,13 @@ transition: 0.5s;
     padding: 22px 0;
 }
 
+#footer-top-bg {
+    background: #3cc395;
 
-
+}
+#footer-top {
+    justify-content: space-between;
+}
 
 
 
